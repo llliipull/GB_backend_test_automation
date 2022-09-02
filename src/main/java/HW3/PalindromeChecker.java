@@ -1,3 +1,5 @@
+package HW3;
+
 public class PalindromeChecker {
 
         public boolean isPalindrome(String word) {
